@@ -10,7 +10,7 @@
 
 #### IDS 706 (Data Engineering Systems)
 
-* [Airline Delay Indicators](https://github.com/nogibjj/Kroening-Airline-Project) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
+* [Airline Delay Indicators](https://github.com/nogibjj/Flight-Delay-Project-Kroening) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
 
 ### Past Work
 
