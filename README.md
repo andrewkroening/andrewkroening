@@ -11,11 +11,11 @@
 #### IDS 706 (Data Engineering Systems)
 
 * [Airline Delay Indicators](https://github.com/nogibjj/Flight-Delay-Project-Kroening) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
-* [A bash command line tool](https://github.com/nogibjj/bash-tool-kroening) - work in progress, more to follow soon!
+* [A Data Pipeline Example built in Azure](https://github.com/andrewkroening/azure-pipeline-example) - work in progress, more to follow soon!
 
 #### IDS 702 (Data Modeling)
 
-* [Team Project](https://github.com/andrewkroening/orange-modeling-project) - We're still figuring this one out!
+* [Team Project](https://github.com/andrewkroening/orange-modeling-project) - We examined the relationships between mutiple factors and life expectancy in countries around the world.
 
 ### Past Work
 
