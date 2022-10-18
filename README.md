@@ -10,7 +10,7 @@
 
 #### IDS 706 (Data Engineering Systems)
 
-* [Airline Delay Indicators](https://github.com/nogibjj/Flight-Delay-Project-Kroening) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
+* [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
 * [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) built in Azure - work in progress, more to follow soon!
 
 #### IDS 702 (Data Modeling)
