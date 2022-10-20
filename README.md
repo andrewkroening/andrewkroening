@@ -10,9 +10,9 @@
 
 #### IDS 706 (Data Engineering Systems)
 
-* Here's the YouTube playlist of the demo videos I made for this course: [Andrew's MIDS Videos.](https://m.youtube.com/playlist?list=PLTjQCZdGj6ozplSpZMqWndHNAmnto5Gyv)
+* [Andrew's MIDS Videos](https://m.youtube.com/playlist?list=PLTjQCZdGj6ozplSpZMqWndHNAmnto5Gyv) is the YouTube playlist of the demo videos I made for this course.
 * [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
-* [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) built in Azure - work in progress, more to follow soon!
+* [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
 
 #### IDS 702 (Data Modeling)
 
