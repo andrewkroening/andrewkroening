@@ -12,6 +12,7 @@
 
 * [Andrew's MIDS Videos](https://m.youtube.com/playlist?list=PLTjQCZdGj6ozplSpZMqWndHNAmnto5Gyv) is the YouTube playlist of the demo videos I made for this course.
 * [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
+* [NBA WAR Predictor](https://huggingface.co/spaces/andrewkroening/nba-war-predictor) - a Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [GitHub code repo here.](https://github.com/nogibjj/nba-war-predictor-tool)
 * [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
 
 #### IDS 702 (Data Modeling)
