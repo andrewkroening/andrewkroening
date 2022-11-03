@@ -4,7 +4,7 @@
 
 *I left a little sketch to explain my career below. Here's a link to my [LinkedIn Profile ](https://www.linkedin.com/in/andrew-kroening/)if you'd like to know a little more. I'm in the Army, and I do data science. It's a bit newer for me in the last few years. Below the 'current projects' section, I left two sketches that explain a little bit of the work I've done in the past.*
 
-*I've recently begun building a Hugging Face profile with a few fun projects. [Check it out here.](https://huggingface.co/andrewkroening)
+*I've recently begun building a Hugging Face profile with a few fun projects. [Check it out here.](https://huggingface.co/andrewkroening)*
 
 ![alt text](https://github.com/andrewkroening/andrewkroening/blob/6198ec4a0fdc3ba1753f04358b52ee728797b287/career_sketch.png?raw=true)
 
