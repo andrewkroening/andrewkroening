@@ -14,7 +14,7 @@
 
 * [Andrew's MIDS Videos](https://m.youtube.com/playlist?list=PLTjQCZdGj6ozplSpZMqWndHNAmnto5Gyv) is the YouTube playlist of the demo videos I made for this course.
 
-* [Automated Hugging Face Fine-Tuner](https://github.com/nogibjj/hugging-face-gpt-trainer) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
+* [Automated Hugging Face Fine-Tuner](https://github.com/andrewkroening/hugging-face-gpt-trainer/tree/gpt-fine-tune) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
 
 * [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
 
