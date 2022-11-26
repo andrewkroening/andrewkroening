@@ -8,23 +8,33 @@
 
 ![alt text](https://github.com/andrewkroening/andrewkroening/blob/d45b4d7b4061c4cd1fb79932cf48100519091e3a/career_sketch.png?raw=true)
 
-### Current projects:
+### Fall 2022 Duke MIDS projects:
 
-#### IDS 706 (Data Engineering Systems)
+#### Data Engineering Systems (IDS 706)
+
+* Final Group Project - Coming Soon!
 
 * [Auto ML Energy Predictions](https://github.com/andrewkroening/energy-predictions) - A project to use available open source data from several streams to construct a prediction tool for energy consumption in the United States.
 
 * [Automated Hugging Face Fine-Tuner](https://github.com/andrewkroening/hugging-face-gpt-trainer/tree/gpt-fine-tune) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
 
-* [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - a little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
+* [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - A little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
 
-* [NBA WAR Predictor](https://huggingface.co/spaces/andrewkroening/nba-war-predictor) - a Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [GitHub code repo here.](https://github.com/andrewkroening/nba-war-predictor-tool)
+* [NBA WAR Predictor](https://huggingface.co/spaces/andrewkroening/nba-war-predictor) - A Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [GitHub code repo here.](https://github.com/andrewkroening/nba-war-predictor-tool)
 
-* [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
+* [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) - Built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
 
-#### IDS 702 (Data Modeling)
+#### Data Modeling Systems (IDS 702)
 
-* [Team Project](https://github.com/andrewkroening/orange-modeling-project) - We examined the relationships between mutiple factors and life expectancy in countries around the world.
+* [Team Project](https://github.com/andrewkroening/orange-modeling-project) - A group project where we examine the relationships between mutiple factors and life expectancy in countries around the world. We also seek to infer the developmental status of a country from the same data.
+
+#### Practicing Data Science (IDS 720)
+
+* [Final Team Project](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opiods, and overdose deaths as a result. (In-progress)
+
+#### Natural Langauge Processing (IDS 703)
+
+* Final Group Project - Stay Tuned!!
 
 ### Past Work
 
