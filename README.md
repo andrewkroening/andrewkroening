@@ -26,11 +26,11 @@
 
 #### Data Modeling Systems (IDS 702)
 
-* [Team Project](https://github.com/andrewkroening/orange-modeling-project) - A group project where we examine the relationships between mutiple factors and life expectancy in countries around the world. We also seek to infer the developmental status of a country from the same data.
+* [Global Life Expectancy and Related Factors](https://github.com/andrewkroening/orange-modeling-project) - A group project where we examine the relationships between mutiple factors and life expectancy in countries around the world. We also seek to infer the developmental status of a country from the same data.
 
 #### Practicing Data Science (IDS 720)
 
-* [Final Team Project](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opiods, and overdose deaths as a result. (In-progress)
+* [Efficacy of Policy Actions on Opioids](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opiods, and overdose deaths as a result. (In-progress)
 
 #### Natural Langauge Processing (IDS 703)
 
