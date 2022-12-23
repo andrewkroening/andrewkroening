@@ -8,19 +8,25 @@
 
 ![alt text](https://github.com/andrewkroening/andrewkroening/blob/d45b4d7b4061c4cd1fb79932cf48100519091e3a/career_sketch.png?raw=true)
 
+### Ongoing Projects
+
+#### Side Hustles
+
+* [Fun Money Tools](https://github.com/andrewkroening/fun-money-tools) - I think learning personal finance can be hard. I also think coding stuff is fun. So I'm putting together a little project to help answer some of life's thorniest money questions. It's called "Fun Money Tools" and you can find the interface on Streamlit [at this link.](https://funmoneytools.streamlit.app)
+
 ### Fall 2022 Duke MIDS projects:
 
 #### Data Engineering Systems (IDS 706)
 
-* Final Group Project - Coming Soon!
+* [World Cup Match Predictor](https://github.com/andrewkroening/tons-of-fun) - A Totally Not Serious FIFA Outcome Prediction Tool for the 2022 World Cup, we call it TONS OF FUN. We stream in live Soccer Power Index rankings and predict the outcomes of matches for each day of the tournament. Also has a function for users to simulate any desired matchup. [Check out TONS OF FUN](https://tons-of-fun.streamlit.app)
 
 * [Auto ML Energy Predictions](https://github.com/andrewkroening/energy-predictions) - A project to use available open source data from several streams to construct a prediction tool for energy consumption in the United States.
 
 * [Automated Hugging Face Fine-Tuner](https://github.com/andrewkroening/hugging-face-gpt-trainer/tree/gpt-fine-tune) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
 
-* [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - A little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed.
+* [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - A little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed. [Check out the ONWARD App](https://onward.streamlit.app)
 
-* [NBA WAR Predictor](https://huggingface.co/spaces/andrewkroening/nba-war-predictor) - A Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [GitHub code repo here.](https://github.com/andrewkroening/nba-war-predictor-tool)
+* [NBA WAR Predictor](https://github.com/andrewkroening/nba-war-predictor-tool) - A Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [Check out the Gradio App.](https://huggingface.co/spaces/andrewkroening/nba-war-predictor)
 
 * [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) - Built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
 
@@ -32,9 +38,6 @@
 
 * [Efficacy of Policy Actions on Opioids](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opiods, and overdose deaths as a result. (In-progress)
 
-#### Natural Langauge Processing (IDS 703)
-
-* Final Group Project - Stay Tuned!!
 
 ### Past Work
 
