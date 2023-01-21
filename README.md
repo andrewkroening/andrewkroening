@@ -14,11 +14,15 @@
 
 * [Fun Money Tools](https://github.com/andrewkroening/fun-money-tools) - I think learning personal finance can be hard. I also think coding stuff is fun. So I'm putting together a little project to help answer some of life's thorniest money questions. It's called "Fun Money Tools" and you can find the interface on Streamlit [at this link.](https://funmoneytools.streamlit.app)
 
+* [Precious Metal Analysis](https://github.com/andrewkroening/precious-metal-price-analysis) - This is a project that I'm doing to practice the sequence from exploratory data analysis, through model fitting and selection, and into deployment. In particular, I'm looking at ways to predict the spot price of silver given the price of other variables. I'm not sure what form this will take in the end, but it should be fun. Stay posted for future updates!
+
+* [Data Science Tools](https://github.com/andrewkroening/data-science-tools) - A little python package I'm putting together to take some of my favorite, bespoke functions and put them together in one place. Stay tuned, this one is early in development.
+
 ### Fall 2022 Duke MIDS projects:
 
 #### Data Engineering Systems (IDS 706)
 
-* [World Cup Match Predictor](https://github.com/andrewkroening/tons-of-fun) - A Totally Not Serious FIFA Outcome Prediction Tool for the 2022 World Cup, we call it TONS OF FUN. We stream in live Soccer Power Index rankings and predict the outcomes of matches for each day of the tournament. Also has a function for users to simulate any desired matchup. [Check out TONS OF FUN](https://tons-of-fun.streamlit.app)
+* [World Cup Match Predictor](https://github.com/andrewkroening/tons-of-fun) - A Totally Not Serious FIFA Outcome Prediction Tool for the 2022 World Cup, we call it TONS OF FUN. We stream in live Soccer Power Index rankings and predict the outcomes of matches for each day of the tournament. Also has a function for users to simulate any desired matchup. [Check out TONS OF FUN.](https://tons-of-fun.streamlit.app)
 
 * [Auto ML Energy Predictions](https://github.com/andrewkroening/energy-predictions) - A project to use available open source data from several streams to construct a prediction tool for energy consumption in the United States.
 
