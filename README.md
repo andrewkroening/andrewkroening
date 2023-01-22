@@ -16,7 +16,7 @@
 
 * [Precious Metal Analysis](https://github.com/andrewkroening/precious-metal-price-analysis) - This is a project that I'm doing to practice the sequence from exploratory data analysis, through model fitting and selection, and into deployment. In particular, I'm looking at ways to predict the spot price of silver given the price of other variables. I'm not sure what form this will take in the end, but it should be fun. Stay posted for future updates!
 
-* [Data Science Tools](https://github.com/andrewkroening/data-science-tools) - A little python package I'm putting together to take some of my favorite, bespoke functions and put them together in one place. Stay tuned, this one is early in development.
+* [The DATAS](https://github.com/andrewkroening/the-datas) - The Data Analysis Tools for Analysis and Stuff is a little python package I'm putting together to take some of my favorite, bespoke functions and put them together in one place. Stay tuned, this one is early in development. And yes, to use it you'll have to type "the-datas" at least once.
 
 ### Fall 2022 Duke MIDS projects:
 
