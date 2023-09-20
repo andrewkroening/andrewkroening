@@ -2,7 +2,7 @@
 
 *Greetings. I'm a graduate student at Duke University in the [Master of Interdisciplinary Data Science Program (MIDS).](https://datascience.duke.edu)*
 
-*I left a little sketch to explain my career below. Here's a link to my [LinkedIn Profile ](https://www.linkedin.com/in/andrew-kroening/)if you'd like to know a little more. The punchline is I'm in the Army, and I do data science. Here's what you can find on this page:
+*I left a little sketch to explain my career below. Here's a link to my [LinkedIn Profile ](https://www.linkedin.com/in/andrew-kroening/)if you'd like to know a little more. The punchline is I'm in the Army, and I do data science. Here's what you can find on this page:*
 
 - [Current Projects:](#current-projects) where I highlight a few things I'm currently working on
 - [Duke MIDS Class Projects:](#duke-mids-class-projects) where I showcase some of the highlights from my coursework at Duke
