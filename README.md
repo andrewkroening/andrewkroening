@@ -4,11 +4,11 @@
 
 *I left a little sketch to explain my career below. Here's a link to my [LinkedIn Profile ](https://www.linkedin.com/in/andrew-kroening/)if you'd like to know a little more. The punchline is I'm in the Army, and I do data science. Here's what you can find on this page:*
 
-- [Current Projects:](#current-projects) where I highlight a few things I'm currently working on
-- [Duke MIDS Class Projects:](#duke-mids-class-projects) where I showcase some of the highlights from my coursework at Duke
-- [Past Work:](#past-work) where I left a couple of sketches to explain some previous projects I've been involved in
+- *[Current Projects:](#current-projects) where I highlight a few things I'm currently working on*
+- *[Duke MIDS Class Projects:](#duke-mids-class-projects) where I showcase some of the highlights from my coursework at Duke*
+- *[Past Work:](#past-work) where I left a couple of sketches to explain some previous projects I've been involved in*
 
-I also have a Hugging Face profile with a few fun projects. [Check it out here.](https://huggingface.co/andrewkroening)*
+*I also have a Hugging Face profile with a few fun projects. [Check it out here.](https://huggingface.co/andrewkroening)*
 
 ![alt text](https://github.com/andrewkroening/andrewkroening/blob/d45b4d7b4061c4cd1fb79932cf48100519091e3a/career_sketch.png?raw=true)
 
