@@ -10,6 +10,11 @@
 
 *I also have a Hugging Face profile with a few fun projects. [Check it out here.](https://huggingface.co/andrewkroening)*
 
+#### Latest Drop
+*My most recent project is a visualization tool for the Domestic US Aviation Network from 1990-2015. It uses NetworkX to create a graph with some features engineered to provide analysis. You can find the repository at [this link](https://github.com/andrewkroening/airport-network-viz), or go straight to the Streamlit interface [here.](https://airport-networks.streamlit.app)*
+
+#### Career Sketch
+
 ![alt text](https://github.com/andrewkroening/andrewkroening/blob/d45b4d7b4061c4cd1fb79932cf48100519091e3a/career_sketch.png?raw=true)
 
 ### Current Projects
