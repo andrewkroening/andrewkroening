@@ -21,41 +21,45 @@
 
 #### Side Hustles
 
-* [Fun Money Tools](https://github.com/andrewkroening/fun-money-tools) - I think learning personal finance can be hard. I also think coding stuff is fun. So I'm putting together a little project to help answer some of life's thorniest money questions. It's called "Fun Money Tools," and you can find the interface on Streamlit [at this link.](https://funmoneytools.streamlit.app)
+* ![Generic badge](https://img.shields.io/badge/Beta-orange.svg) [Fun Money Tools](https://github.com/andrewkroening/fun-money-tools) - I think learning personal finance can be hard. I also think coding stuff is fun. So I'm putting together a little project to help answer some of life's thorniest money questions. It's called "Fun Money Tools," and you can find the interface on Streamlit [at this link.](https://funmoneytools.streamlit.app)
 
-* [Precious Metal Analysis](https://github.com/andrewkroening/precious-metal-price-analysis) - This is a project that I'm doing to practice the sequence from exploratory data analysis through model fitting and selection and into deployment. In particular, I'm looking at ways to predict the spot price of silver, given the price of other variables. I'm unsure what form this will take in the end, but it should be fun. Stay posted for future updates!
+* ![Generic badge](https://img.shields.io/badge/In%20Dev-yellow.svg) [Precious Metal Analysis](https://github.com/andrewkroening/precious-metal-price-analysis) - This is a project that I'm doing to practice the sequence from exploratory data analysis through model fitting and selection and into deployment. In particular, I'm looking at ways to predict the spot price of silver, given the price of other variables. I'm unsure what form this will take in the end, but it should be fun. Stay posted for future updates!
 
-* [The DATAS](https://github.com/andrewkroening/the-datas) - The Data Analysis Tools for Analysis and Stuff is a little Python Poetry package I'm putting together to take some of my favorite, bespoke functions and put them together in one place. Stay tuned; this one is early in development. And yes, to use it, you'll have to type "the-datas" at least once.
+* ![Generic badge](https://img.shields.io/badge/Early%20Dev-red.svg) [The DATAS](https://github.com/andrewkroening/the-datas) - The Data Analysis Tools for Analysis and Stuff is a little Python Poetry package I'm putting together to take some of my favorite, bespoke functions and put them together in one place. Stay tuned; this one is early in development. And yes, to use it, you'll have to type "the-datas" at least once.
 
 ### Duke MIDS Class Projects
 
+#### Data Visualization Techniques (IDS 707)
+
+* ![Generic badge](https://img.shields.io/badge/Live-green.svg) [Aviation Network Visualization](https://github.com/andrewkroening/airport-network-viz) - A project that uses NetworkX to treat airline data as a network and generate a DiGraph for a given year. Analytics are calculated for the nodes and edges, and a visualization is produced in an interactive [Streamlit interface.](https://airport-networks.streamlit.app)
+
 #### Causal Inference (IDS 701)
 
-* [Analyzing the Impact of Reporting Periods on Law Enforcement Officer Behavior](https://github.com/MIDS-at-Duke/unifying-data-science-2023-project-team7) - This project examines whether local law enforcement officers increase ticketing activity in response to financial incentives or pressures as a reporting deadline approaches. Basically, is it true when Grandma said, "The officers give more tickets at the end of the month?"
+* ![Generic badge](https://img.shields.io/badge/Complete-grey.svg) [Analyzing the Impact of Reporting Periods on Law Enforcement Officer Behavior](https://github.com/MIDS-at-Duke/unifying-data-science-2023-project-team7) - This project examines whether local law enforcement officers increase ticketing activity in response to financial incentives or pressures as a reporting deadline approaches. Basically, is it true when Grandma said, "The officers give more tickets at the end of the month?"
 
 #### Data Engineering Systems (IDS 706)
 
 *You can check out [my MIDS Videos](https://m.youtube.com/playlist?list=PLTjQCZdGj6ozplSpZMqWndHNAmnto5Gyv) to see the YouTube playlist of the demo videos I made for this course.*
 
-* [World Cup Match Predictor](https://github.com/andrewkroening/tons-of-fun) - A Totally Not Serious FIFA Outcome Prediction Tool for the 2022 World Cup, we call it TONS OF FUN. We streamed live Soccer Power Index rankings and predicted the outcomes of matches for each day of the tournament. Also has a function for users to simulate any desired matchup. [Check out TONS OF FUN.](https://tons-of-fun.streamlit.app)
+* ![Generic badge](https://img.shields.io/badge/Running-green.svg) [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - A little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed. [Check out the ONWARD App](https://onward.streamlit.app)
+  
+* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [World Cup Match Predictor](https://github.com/andrewkroening/tons-of-fun) - A Totally Not Serious FIFA Outcome Prediction Tool for the 2022 World Cup, we call it TONS OF FUN. We streamed live Soccer Power Index rankings and predicted the outcomes of matches for each day of the tournament. Also has a function for users to simulate any desired matchup. [Check out TONS OF FUN.](https://tons-of-fun.streamlit.app)
 
-* [Auto ML Energy Predictions](https://github.com/andrewkroening/energy-predictions) - A project to use available open-source data from several streams to construct a prediction tool for energy consumption in the United States.
+* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [Auto ML Energy Predictions](https://github.com/andrewkroening/energy-predictions) - A project to use available open-source data from several streams to construct a prediction tool for energy consumption in the United States.
 
-* [Automated Hugging Face Fine-Tuner](https://github.com/andrewkroening/hugging-face-gpt-trainer/tree/gpt-fine-tune) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
+* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [Automated Hugging Face Fine-Tuner](https://github.com/andrewkroening/hugging-face-gpt-trainer/tree/gpt-fine-tune) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
 
-* [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - A little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed. [Check out the ONWARD App](https://onward.streamlit.app)
+* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [NBA WAR Predictor](https://github.com/andrewkroening/nba-war-predictor-tool) - A Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [Check out the Gradio App.](https://huggingface.co/spaces/andrewkroening/nba-war-predictor)
 
-* [NBA WAR Predictor](https://github.com/andrewkroening/nba-war-predictor-tool) - A Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [Check out the Gradio App.](https://huggingface.co/spaces/andrewkroening/nba-war-predictor)
-
-* [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) - Built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
+* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) - Built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
 
 #### Data Modeling Systems (IDS 702)
 
-* [Global Life Expectancy and Related Factors](https://github.com/andrewkroening/orange-modeling-project) - A group project examining the relationships between multiple factors and life expectancy in countries worldwide. We also seek to infer the developmental status of a country from the same data.
+* ![Generic badge](https://img.shields.io/badge/Complete-grey.svg) [Global Life Expectancy and Related Factors](https://github.com/andrewkroening/orange-modeling-project) - A group project examining the relationships between multiple factors and life expectancy in countries worldwide. We also seek to infer the developmental status of a country from the same data.
 
 #### Practicing Data Science (IDS 720)
 
-* [Efficacy of Policy Actions on Opioids](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opioids and overdose deaths as a result.
+* ![Generic badge](https://img.shields.io/badge/Complete-grey.svg) [Efficacy of Policy Actions on Opioids](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opioids and overdose deaths as a result.
 
 
 ### Past Work
