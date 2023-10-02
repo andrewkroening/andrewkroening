@@ -10,8 +10,7 @@
 
 *I also have a Hugging Face profile with a few fun projects. [Check it out here.](https://huggingface.co/andrewkroening)*
 
-#### Latest Drop
-*My most recent project is a visualization tool for the Domestic US Aviation Network from 1990-2015. It uses NetworkX to create a graph with some features engineered to provide analysis. You can find the repository at [this link](https://github.com/andrewkroening/airport-network-viz), or go straight to the Streamlit interface [here.](https://airport-networks.streamlit.app)*
+**Latest Drop:** *My most recent project is a visualization tool for the Domestic US Aviation Network from 1990-2015. It uses NetworkX to create a graph with some features engineered to provide analysis. You can find the repository at [this link](https://github.com/andrewkroening/airport-network-viz), or go straight to the Streamlit interface [here.](https://airport-networks.streamlit.app)*
 
 #### Career Sketch
 
@@ -31,35 +30,35 @@
 
 #### Data Visualization Techniques (IDS 707)
 
-* ![Generic badge](https://img.shields.io/badge/Live-green.svg) [Aviation Network Visualization](https://github.com/andrewkroening/airport-network-viz) - A project that uses NetworkX to treat airline data as a network and generate a DiGraph for a given year. Analytics are calculated for the nodes and edges, and a visualization is produced in an interactive [Streamlit interface.](https://airport-networks.streamlit.app)
+* ![Generic badge](https://img.shields.io/badge/New-green.svg) [Aviation Network Visualization](https://github.com/andrewkroening/airport-network-viz) - A project that uses NetworkX to treat airline data as a network and generate a DiGraph for a given year. Analytics are calculated for the nodes and edges, and a visualization is produced in an interactive [Streamlit interface.](https://airport-networks.streamlit.app)
 
 #### Causal Inference (IDS 701)
 
-* ![Generic badge](https://img.shields.io/badge/Complete-grey.svg) [Analyzing the Impact of Reporting Periods on Law Enforcement Officer Behavior](https://github.com/MIDS-at-Duke/unifying-data-science-2023-project-team7) - This project examines whether local law enforcement officers increase ticketing activity in response to financial incentives or pressures as a reporting deadline approaches. Basically, is it true when Grandma said, "The officers give more tickets at the end of the month?"
+* [Analyzing the Impact of Reporting Periods on Law Enforcement Officer Behavior](https://github.com/MIDS-at-Duke/unifying-data-science-2023-project-team7) - This project examines whether local law enforcement officers increase ticketing activity in response to financial incentives or pressures as a reporting deadline approaches. Basically, is it true when Grandma said, "The officers give more tickets at the end of the month?"
 
 #### Data Engineering Systems (IDS 706)
 
 *You can check out [my MIDS Videos](https://m.youtube.com/playlist?list=PLTjQCZdGj6ozplSpZMqWndHNAmnto5Gyv) to see the YouTube playlist of the demo videos I made for this course.*
 
-* ![Generic badge](https://img.shields.io/badge/Running-green.svg) [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - A little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed. [Check out the ONWARD App](https://onward.streamlit.app)
+* [ONWARD Streamlit App](https://github.com/andrewkroening/ONWARD-Streamlit-App) - A little project to synthesize weather and air traffic data to provide an indicator if a flight will be delayed. [Check out the ONWARD App](https://onward.streamlit.app)
   
-* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [World Cup Match Predictor](https://github.com/andrewkroening/tons-of-fun) - A Totally Not Serious FIFA Outcome Prediction Tool for the 2022 World Cup, we call it TONS OF FUN. We streamed live Soccer Power Index rankings and predicted the outcomes of matches for each day of the tournament. Also has a function for users to simulate any desired matchup. [Check out TONS OF FUN.](https://tons-of-fun.streamlit.app)
+* [World Cup Match Predictor](https://github.com/andrewkroening/tons-of-fun) - A Totally Not Serious FIFA Outcome Prediction Tool for the 2022 World Cup, we call it TONS OF FUN. We streamed live Soccer Power Index rankings and predicted the outcomes of matches for each day of the tournament. Also has a function for users to simulate any desired matchup. [Check out TONS OF FUN.](https://tons-of-fun.streamlit.app)
 
-* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [Auto ML Energy Predictions](https://github.com/andrewkroening/energy-predictions) - A project to use available open-source data from several streams to construct a prediction tool for energy consumption in the United States.
+* [Auto ML Energy Predictions](https://github.com/andrewkroening/energy-predictions) - A project to use available open-source data from several streams to construct a prediction tool for energy consumption in the United States.
 
-* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [Automated Hugging Face Fine-Tuner](https://github.com/andrewkroening/hugging-face-gpt-trainer/tree/gpt-fine-tune) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
+* [Automated Hugging Face Fine-Tuner](https://github.com/andrewkroening/hugging-face-gpt-trainer/tree/gpt-fine-tune) - A script for fine-tuning a conversational language model and pushing it back to the Hugging Face hub. Check out [this model](https://huggingface.co/andrewkroening/GalaxyFarAway-DialoGPT-HanSolo) to see it fine-tuned on Han Solo!
 
-* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [NBA WAR Predictor](https://github.com/andrewkroening/nba-war-predictor-tool) - A Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [Check out the Gradio App.](https://huggingface.co/spaces/andrewkroening/nba-war-predictor)
+* [NBA WAR Predictor](https://github.com/andrewkroening/nba-war-predictor-tool) - A Gradio interface built on a HuggingFace Space to show a selected basketball player's performance and give a projection for five years after. [Check out the Gradio App.](https://huggingface.co/spaces/andrewkroening/nba-war-predictor)
 
-* ![Generic badge](https://img.shields.io/badge/Archived-black.svg) [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) - Built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
+* [Data Pipeline Example](https://github.com/andrewkroening/azure-pipeline-example) - Built in Azure to capture survey responses, transform the data, conduct sentiment analysis, and alert a user if there is a negative response.
 
 #### Data Modeling Systems (IDS 702)
 
-* ![Generic badge](https://img.shields.io/badge/Complete-grey.svg) [Global Life Expectancy and Related Factors](https://github.com/andrewkroening/orange-modeling-project) - A group project examining the relationships between multiple factors and life expectancy in countries worldwide. We also seek to infer the developmental status of a country from the same data.
+* [Global Life Expectancy and Related Factors](https://github.com/andrewkroening/orange-modeling-project) - A group project examining the relationships between multiple factors and life expectancy in countries worldwide. We also seek to infer the developmental status of a country from the same data.
 
 #### Practicing Data Science (IDS 720)
 
-* ![Generic badge](https://img.shields.io/badge/Complete-grey.svg) [Efficacy of Policy Actions on Opioids](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opioids and overdose deaths as a result.
+* [Efficacy of Policy Actions on Opioids](https://github.com/MIDS-at-Duke/pds-2022-pds_orange) - A group project where we examine the effectiveness of state policies on prescription rates of opioids and overdose deaths as a result.
 
 
 ### Past Work
