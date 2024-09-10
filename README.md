@@ -1,8 +1,11 @@
 ### Introduction
 
-Hey there! I'm Andrew and I'm a Data Scientist, Innovator, and General Problem-Solver. Recently, I graduated from the [Master of Interdisciplinary Data Science (MIDS) Program at Duke University](https://datascience.duke.edu) and am back out in the field.
+Hey there! I'm Andrew and I'm a Data Scientist, Innovator, and General Problem-Solver. Recently, I graduated from Duke University with a 
 
-Below, you’ll find a sketch of my career journey and links to  and projects that highlight my work:
+- *[Master of Interdisciplinary Data Science (MIDS) Degree](https://datascience.duke.edu)*
+- *[Innovation and Entreprenuership (I&E) Graduate Certificate](https://entrepreneurship.duke.edu)*
+
+I am back out in the field now. Below, you’ll find a sketch of my career journey and links to  and projects that highlight my work:
 
 - *[Current Projects:](#current-projects) Highlighting ongoing work I'm excited about*
 - *[Research & Engineering Work:](#research-and-engineering-work) Showcasing key projects from my time at Duke*
@@ -62,7 +65,3 @@ Here’s an enhanced version of the Research and Engineering Work section with m
 ![Pathway Sketch](https://github.com/andrewkroening/andrewkroening/blob/6198ec4a0fdc3ba1753f04358b52ee728797b287/pathway_sketch.png?raw=true)
 
 *Redesigned feedback collection using Microsoft Forms, Power Automate, and Power BI, significantly improving data capture and enabling better program support and investment decisions.*
-
-![alt text](https://github.com/andrewkroening/andrewkroening/blob/6198ec4a0fdc3ba1753f04358b52ee728797b287/pathway_sketch.png?raw=true)
-
-*This was my first project. At an event, I noticed that everyone was scribbling feedback on pieces of paper and turning them in for someone else to read and type. I had just started a data team and needed something to do, so I took the survey and converted it to a Microsoft Form. That form had a support Power Flow that uploaded responses to Sharepoint lists (we didn't have much by way of licenses early on). Power BI would ingest the responses from the lists and provide simple analytics about each event. It took about two or three months and became a great tool to support investments in military family readiness programs.*
