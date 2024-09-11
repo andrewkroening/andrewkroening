@@ -18,7 +18,7 @@ I am back out in the field now. Below, you’ll find a sketch of my career journ
 
 #### Career Sketch
 
-![Career Sketch](https://github.com/andrewkroening/andrewkroening/blob/d45b4d7b4061c4cd1fb79932cf48100519091e3a/career_sketch.png?raw=true)
+![Career Sketch](https://github.com/andrewkroening/andrewkroening/blob/4b3ae863311528d907aa0e10030b3b33d85ab62b/career_sketch.png?raw=true)
 
 ### Current Projects
 
