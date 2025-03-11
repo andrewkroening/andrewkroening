@@ -1,9 +1,7 @@
 ### Introduction
 
 Hey there! I'm Andrew and I'm a Data Scientist, Innovator, and General Problem-Solver. Recently, I graduated from Duke University with a 
-
-- *[Master of Interdisciplinary Data Science (MIDS) Degree](https://datascience.duke.edu)*
-- *[Innovation and Entreprenuership (I&E) Graduate Certificate](https://entrepreneurship.duke.edu)*
+*[Master of Interdisciplinary Data Science (MIDS) Degree](https://datascience.duke.edu)* and an *[Innovation and Entreprenuership (I&E) Graduate Certificate](https://entrepreneurship.duke.edu)*.
 
 I am back out in the field now. Below, you’ll find a sketch of my career journey and links to  and projects that highlight my work:
 
@@ -27,8 +25,6 @@ I am back out in the field now. Below, you’ll find a sketch of my career journ
 * ![Beta](https://img.shields.io/badge/Beta-orange.svg) [Fun Money Tools](https://github.com/andrewkroening/fun-money-tools) - I believe learning personal finance should be accessible and fun, so I’m creating “Fun Money Tools,” a project to answer life’s tricky money questions. Check out the [Streamlit app here.](https://funmoneytools.streamlit.app)
 
 * ![In Development](https://img.shields.io/badge/In%20Dev-yellow.svg) [Precious Metal Analysis](https://github.com/andrewkroening/precious-metal-price-analysis) - Practicing data analysis from EDA to deployment by predicting silver spot prices based on other variables. Still figuring out the end game, so stay tuned!
-
-Here’s an enhanced version of the Research and Engineering Work section with more detailed descriptions for each project:
 
 ### Research and Engineering Work
 
